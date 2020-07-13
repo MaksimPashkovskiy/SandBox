@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">SandBox</string>
+    <string name="app_name">Задачи по программированию</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_task_1">Задача №1</string>
+    <string name="btn_task_2">Задача №2</string>
+    <string name="btn_task_3">Задача №3</string>
+    <string name="btn_task_4">Задача №4</string>
+    <string name="btn_task_5">Задача №5</string>
 </resources>
